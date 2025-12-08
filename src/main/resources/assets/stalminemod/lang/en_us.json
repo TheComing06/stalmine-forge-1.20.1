@@ -1,4 +1,6 @@
 {
   "item.stalminemod.bolt": "Bolt",
-  "item.stalminemod.knife": "Knife"
+  "item.stalminemod.knife": "Knife",
+
+  "creativetab.stalmine_tab": "StalMine Items"
 }
