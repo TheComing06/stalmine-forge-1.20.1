@@ -13,6 +13,8 @@ public class ModItems {
 
     public static final RegistryObject<Item> BOLT = ITEMS.register("bolt",
             () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> KNIFE = ITEMS.register("knife",
+            () -> new Item(new Item.Properties()));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

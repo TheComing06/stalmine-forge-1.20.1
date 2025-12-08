@@ -46,6 +46,7 @@ public class StalMineMod
     {
         if (event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
             event.accept(ModItems.BOLT);
+            event.accept(ModItems.KNIFE);
         }
     }
 
